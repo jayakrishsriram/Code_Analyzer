@@ -23,3 +23,5 @@ Need a gemini api key for this. Then need to create a '.env' file to store the a
 
 https://github.com/user-attachments/assets/bc7e15fc-6464-4e6a-a5f5-960f4725f751
 
+# Any assumptions or limitations:
+The Process is done using gemini. So any bug from it will affect the code. There might be some times error while executing in the Streamlit interface. Just Click analyze again it will be fixed.
