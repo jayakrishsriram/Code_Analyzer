@@ -16,7 +16,8 @@ Step-6: Choose your type of input. Then type what your code does like what are y
 Step-7: Place your code which needs to be analyzed. Press analyze.
 
 ## Requirements:
-Need a gemini api key for this. Then need to create a '.env' file to store the api key. Using .env api key will be safe from others. 
+Need a gemini api key for this. Then need to create a '.env' file to store the api key. Using .env api key will be safe from others. There was some issue in '.env' being unhidden.
+Note: The api key is not original. So try using your own api key.
 
 ## Sample video is below:
 
